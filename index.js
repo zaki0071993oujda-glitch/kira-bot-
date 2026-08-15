@@ -54,7 +54,7 @@ if (!global.db.data.antiLinkStats) global.db.data.antiLinkStats = {};
    ============================================================ */
 
 const client = new Client({
-    phoneNumber: '212634266182',
+    phoneNumber: '3197010526269',
     prefix: ['.', '/', '!'],
     fromMe: false,
     owners: [
